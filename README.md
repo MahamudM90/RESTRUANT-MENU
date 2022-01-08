@@ -2,7 +2,7 @@
 This is a Basic Level Restaurants-menu project where we can filter items dynamically.
 
 ## Deployed
-👉 Live Demo: [https://mahamudm90.github.io/Restaurants-menu/](https://mahamudm90.github.io/Restaurants-menu/)
+👉 Live Demo: [https://mahamudm90.github.io/RESTRUANT-MENU/](https://mahamudm90.github.io/RESTRUANT-MENU/)
 
 ## Demonstration
 <p align="left">
